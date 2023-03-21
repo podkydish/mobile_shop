@@ -1,0 +1,11 @@
+
+
+<style android:name="ButtonStyle"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:name="android:textColor">@color/black</item>
+    <item android:name="android:textSize">22.4px</item>
+    <item android:name="android:textStyle">bold</item>
+    <item android:name="android:background">white</item>
+    <item android:name="android:gravity">center</item>
+</style>
